@@ -1,6 +1,6 @@
 # Starbucks Nutrition Analysis
 
-This repo contains a web scraper and an analysis report of Starbucks drink nutrition data.
+This repo contains a web scraper and CSV of Starbucks drink nutrition data.
 
 Cloned from [yhejazy's repo](https://github.com/yhejazi/starbucks-nutrition), and updated for 06 Feb 2024
 
