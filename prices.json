@@ -1,0 +1,1092 @@
+{
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "name": "Hot Coffees",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Latte",
+            "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Mocha",
+            "description": "Our signature espresso meets white chocolate sauce and steamed milk, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Starbucks® Blonde Vanilla Latte",
+            "description": "Extra-smooth Starbucks® Blonde Espresso, velvety steamed milk and vanilla syrup come together to create a delightful new twist on a beloved espresso classic. An ideal cup for those who prefer a lighter-roasted coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Mocha",
+            "description": "Our rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk, then topped with sweetened whipped cream. The classic coffee drink that always sweetly satisfies.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Macchiato",
+            "description": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cinnamon Dolce Latte",
+            "description": "We add freshly steamed milk and cinnamon dolce-flavored syrup to our classic espresso, topped with sweetened whipped cream and a cinnamon dolce topping to bring you specialness in a treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Featured Medium Roast Pike Place® Roast",
+            "description": "From our first store in Seattle’s Pike Place Market to our coffeehouses around the world, customers requested a freshly brewed coffee they could enjoy throughout the day. In 2008 our master blenders and roasters created this for you—a smooth, well-rounded blend of Latin American coffees with subtly rich flavors of chocolate and toasted nuts, it’s served fresh every day at a Starbucks® store near you.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Americano",
+            "description": "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance. Pro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cappuccino",
+            "description": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Featured Blonde Roast",
+            "description": "In Latin America, coffee farms are often run by families, with their own homes on the same​ land where their coffee grows. We’ve sipped coffee with these farmers for decades,​ sitting on their verandas, overlooking the lush beauty of the coffee trees rolling out in the​ distance. Most times it was a lightly roasted coffee like this one. It took us more than 80​ tries to get it right—mellow and flavorful with a nice softness.​",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Misto",
+            "description": "A one-to-one combination of fresh-brewed coffee and steamed milk add up to one distinctly delicious coffee drink remarkably mixed.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Flat White",
+            "description": "Smooth ristretto shots of espresso get the perfect amount of steamed whole milk to create a not-too-strong, not-too-creamy, just-right flavor.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee Traveler - Pike Place® Roast",
+            "description": "A convenient carrier filled with 96 fl oz of our featured brewed medium roast coffee (equivalent of twelve 8 fl oz cups)—a perfect pick-me-up for meetings, picnics or whatever occasion calls for coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "23.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Espresso Macchiato",
+            "description": "Our rich espresso marked with dollop of steamed milk and foam. A European-style classic.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee Traveler - Veranda Blend®",
+            "description": "A convenient carrier filled with 96 fl oz of our brewed Starbucks® Blonde Veranda Blend® (equivalent to 12 8-fl-oz cups), perfect for meetings, picnic gatherings or any occasion that calls for coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "23.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee Traveler - Dark Roast",
+            "description": "A convenient carrier filled with 96 fl oz of brewed Starbucks® Dark Roast coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "23.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee Traveler - Decaf Pike Place® Roast",
+            "description": "A convenient carrier filled with 96 fl oz of our featured brewed decaf coffee (equivalent of twelve 8 fl oz cups)—a perfect companion for meetings, picnics or whatever occasion calls for coffee.",
+            "offers": {
+              "@type": "Offer",
+              "price": "23.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Featured Dark Roast",
+            "description": "This full-bodied dark roast coffee with bold, robust flavors showcases our roasting and blending artistry—an essential blend of balanced and lingering flavors.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Featured Decaf Roast Decaf Pike Place® Roast",
+            "description": "From our first store in Seattle’s Pike Place Market to our coffeehouses around the world, customers requested a freshly brewed coffee they could enjoy throughout the day. In 2008 our master blenders and roasters created this for you—a smooth, well-rounded blend of Latin American coffees with subtly rich flavors of chocolate and toasted nuts, it’s served fresh every day at a Starbucks® store near you. (Decaf as you like it.)",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pistachio Latte",
+            "description": "Cozy flavors of sweet pistachio and a brown-buttery topping paired with espresso and steamed milk, specially crafted to keep you comforted in the new year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint Mocha",
+            "description": "Our festive all-star Peppermint Mocha brightens the holidays: signature Espresso Roast combines with steamed milk, sweet mocha sauce and peppermint-flavored syrup, topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint White Chocolate Mocha",
+            "description": "Rich espresso meets a trio of white chocolate sauce, peppermint-flavored syrup and steamed milk, topped with sweet whipped cream and dark-chocolate curls—an oh-so-delightfully merry treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Teas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chai Tea Latte",
+            "description": "Black tea infused with cinnamon, clove and other warming spices is combined with steamed milk and topped with foam for the perfect balance of sweet and spicy. An iconic chai cup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Matcha Tea Latte",
+            "description": "Smooth and creamy matcha sweetened just right and served with steamed milk. This favorite will transport your senses to pure green delight.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Hot Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Hot Chocolate",
+            "description": "Steamed milk with chocolate-flavored syrups. Topped with sweetened whipped cream and chocolate-flavored drizzle. A timeless classic made to sweeten your spirits.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vanilla Crème",
+            "description": "A smooth, frothy vanilla-flavored luxury. For those times, when you'd rather not indulge in the rich flavor of our world-famous espresso, but desire a hot, creamy vanilla beverage.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Steamed Milk",
+            "description": "Enjoy a warm cup of skim, 2%, soy, almond or coconutmilk steamed for your sipping pleasure.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Hot Chocolate",
+            "description": "A traditional hot chocolate beverage made with white chocolate sauce and steamed milk, topped with whipped cream.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Steamed Apple Juice",
+            "description": "Freshly steamed 100% apple juice (not from concentrate). Feel the apple goodness in this classic fruit drink that will soothe and embolden your day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Apple Spice",
+            "description": "Steamed apple juice complemented with cinnamon syrup, whipped cream and a caramel sauce drizzle.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint Hot Chocolate",
+            "description": "A big welcome back to our classic holiday hot chocolate—lovingly made with chocolaty mocha sauce, peppermint-flavored syrup and steamed milk and sweetly topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint White Hot Chocolate",
+            "description": "A sweet twist on holiday hot chocolate—white chocolate mocha sauce, peppermint-flavored syrup and steamed milk, topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pistachio Crème",
+            "description": "Cozy flavors of sweet pistachio and a brown-buttery topping paired with steamed milk, specially crafted to keep you comforted in the new year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.45",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Frappuccino® Blended Beverages",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Ribbon Crunch Frappuccino® Blended Beverage",
+            "description": "Buttery caramel syrup blended with coffee, milk and ice, then topped with a layer of dark caramel sauce, whipped cream, caramel drizzle and a crunchy caramel-sugar topping—oh-so-beautifully delicious.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vanilla Bean Crème Frappuccino® Blended Crème",
+            "description": "This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes va-va-vanilla flavor to another level. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Matcha Crème Frappuccino® Blended Beverage",
+            "description": "This blend of sweetened premium matcha green tea, milk and ice—topped off with sweetened whipped cream—inspires a delicious boost and good green vibes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caffè Vanilla Frappuccino® Blended Beverage",
+            "description": "We take Frappuccino® roast coffee and vanilla bean powder, combine them with milk and ice, topped with whipped cream. Tastes like happiness.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Java Chip Frappuccino® Blended Beverage",
+            "description": "We blend mocha sauce and Frappuccino® chips with coffee, milk and ice, then top it off with whipped cream and a mocha drizzle to bring you endless java joy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Frappuccino® Blended Beverage",
+            "description": "Caramel syrup meets coffee, milk and ice for a rendezvous in the blender, while whipped cream and buttery caramel sauce layer the love on top. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Espresso Frappuccino® Blended Beverage",
+            "description": "Coffee is combined with a shot of espresso and milk, then blended with ice to give you a nice little jolt and lots of sipping joy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mocha Cookie Crumble Frappuccino®",
+            "description": "Frappuccino® Roast coffee, mocha sauce and Frappuccino® chips blended with milk and ice, layered on top of whipped cream and chocolate cookie crumble and topped with vanilla whipped cream, mocha drizzle and even more chocolate cookie crumble. Each sip is as good as the last . . . all the way to the end.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage",
+            "description": "Buttery caramel syrup is blended with milk and ice, then topped with a layer of dark caramel sauce, whipped cream, caramel drizzle and a crunchy caramel-sugar topping—oh-so-beautifully delicious.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mocha Frappuccino® Blended Beverage",
+            "description": "Mocha sauce, Frappuccino® Roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Double Chocolaty Chip Crème Frappuccino® Blended Beverage",
+            "description": "Rich mocha-flavored sauce meets up with chocolaty chips, milk and ice for a blender bash. Top it off with sweetened whipped cream and mocha drizzle for a real party in your mouth.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coffee Frappuccino® Blended Beverage",
+            "description": "Coffee meets milk and ice in a blender for a rumble-and-tumble togetherness to create one of our most-beloved original Frappuccino® blended beverages.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Crème Frappuccino® Blended Beverage",
+            "description": "A smooth blend of white chocolate sauce, milk and ice topped with whipped cream for a remarkable flavor that surprisingly wows.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "White Chocolate Mocha Frappuccino® Blended Beverage",
+            "description": "White chocolate Frappuccino® Roast coffee, milk and ice get together for what might be the best thing that happens to you all day. Oh, and there's whipped cream on top.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint Mocha Frappuccino® Blended Beverage",
+            "description": "A delectable blend of chocolaty-pepperminty perfection in every cool sip—Frappuccino® Roast coffee, mocha sauce, peppermint-flavored syrup, milk and ice, topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint White Chocolate Mocha Frappuccino® Blended Beverage",
+            "description": "A delectable blend of white chocolaty-pepperminty perfection in every cool sip—Frappuccino® Roast coffee, white chocolate mocha sauce, peppermint-flavored syrup, milk and ice, topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pistachio Frappuccino® Blended Beverage",
+            "description": "Sweet pistachio flavor blended with coffee, milk and ice, then finished with whipped cream and a salted brown-buttery topping—an icy-smooth, creamy delight to bring you into the new year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint Mocha Crème Frappuccino® Blended Beverage",
+            "description": "This all-about-the-flavors sip delivers a delectable blend of chocolaty-pepperminty perfection—milk, ice, mocha sauce and peppermint-flavored syrup swirled together, topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Peppermint White Chocolate Crème Frappuccino® Blended Beverage",
+            "description": "This all-about-the-flavors sip delivers a delectable blend of white chocolaty-pepperminty perfection—milk, ice, white chocolate mocha sauce and peppermint-flavored syrup swirled together, topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pistachio Crème Frappuccino® Blended Beverage",
+            "description": "Sweet pistachio flavor blended with milk and ice, then finished with whipped cream and a salted brown-buttery topping--an icy-smooth, creamy treat to keep you refreshed in the new year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chai Crème Frappuccino®",
+            "description": "A creamy blend of spicy classic chai, milk and ice. Topped with sweetened whipped cream and a dash of cinnamon. Spice up your afternoon treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate-Covered Strawberry Crème Frappuccino® Blended Beverage",
+            "description": "We blend strawberry puree and Frappuccino® chips with milk and ice, layered on top of a splash of strawberry puree and finished with vanilla whipped cream to deliver a frosty, delicious treat inspired by our love of chocolate-covered strawberries.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Coffees",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caramel Macchiato",
+            "description": "We combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with a caramel drizzle for an oh-so-sweet finish.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced White Chocolate Mocha",
+            "description": "Our signature espresso meets white chocolate sauce, milk and ice, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Brown Sugar Oatmilk Shaken Espresso",
+            "description": "First we shake Starbucks® Blonde espresso, brown sugar and cinnamon together, and then top it off with oatmilk and ice for a cool lift to power you through your day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vanilla Sweet Cream Cold Brew",
+            "description": "Just before serving, our slow-steeped custom blend Starbucks® Cold Brew Coffee is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Salted Caramel Cream Cold Brew",
+            "description": "Here's a savory-meets-sweet refreshing beverage certain to delight: our signature, super-smooth cold brew, sweetened with a touch of caramel and topped with a salted, rich cold foam.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caffè Americano",
+            "description": "Espresso shots topped with cold water produce a light layer of crema, then served over ice. The result: a wonderfully rich cup with depth and nuance. \nPro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Starbucks® Blonde Vanilla Latte",
+            "description": "Seriously smooth and subtly sweet Starbucks® Blonde Espresso, milk, ice and vanilla syrup come together to create a delightful twist on a beloved espresso classic.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Shaken Espresso",
+            "description": "Made with the rich, full-bodied espresso you love—then shaken, chilled and mellowed with sweetness and a touch of milk to create a delightfully and deliciously convenient on-the-go drink.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Coffee",
+            "description": "Freshly brewed Starbucks® Iced Coffee Blend served chilled and sweetened over ice. An absolutely, seriously, refreshingly lift to any day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caffè Latte",
+            "description": "Our dark, rich espresso combined with milk and served over ice. A perfect milk-forward cooldown.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.45",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Starbucks® Cold Brew Coffee",
+            "description": "Handcrafted in small batches daily, slow-steeped in cool water for 20 hours, without touching heat—Starbucks® Cold Brew is made from our custom blend of beans grown to steep long and cold for a super-smooth flavor.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Caffè Mocha",
+            "description": "Our rich, full-bodied espresso combined with bittersweet mocha sauce, milk and ice, then topped with sweetened whipped cream. The classic iced coffee drink that always sweetly satisfies.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Starbucks® Cold Brew Coffee with Milk",
+            "description": "Our custom blend of beans are grown to steep long and cold for a super-smooth flavor. Starbucks® Cold brew is handcrafted in small batches daily, slow-steeped in cool water for 20 hours, without touching heat and finished with a splash of milk.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Cream Cold Brew",
+            "description": "Starbucks® Cold Brew sweetened with vanilla syrup and topped with a silky, chocolaty cream cold foam.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Cinnamon Dolce Latte",
+            "description": "We add freshly steamed milk and cinnamon dolce-flavored syrup to our classic espresso and ice, topped with sweetened whipped cream and a cinnamon dolce topping to bring you specialness in a treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Coffee with Milk",
+            "description": "Freshly brewed Starbucks® Iced Coffee Blend with milk served chilled and sweetened over ice. An absolutely, seriously, refreshingly lift to any day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Flat White",
+            "description": "Smooth ristretto shots of espresso get the perfect amount of whole milk and ice to create a not-too-strong, not-too-creamy, just-right flavor.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pistachio Cream Cold Brew",
+            "description": "Starbucks® signature cold brew sweetened with vanilla syrup, topped with a silky, pistachio cream cold foam and finished with salted brown-buttery sprinkles for a sweet treat to start any winter day.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate Hazelnut Cookie Cold Brew",
+            "description": "Starbucks® Cold Brew sweetened with notes of roasted hazelnut and topped with a silky, chocolaty-cream cold foam and chocolate cookie crumble makes for a perfect chocolaty-hazelnut pick-me-up.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Hazelnut Oatmilk Shaken Espresso",
+            "description": "Starbucks® Blonde espresso combined with notes of roasted hazelnut, shaken together with ice and topped with oatmilk delivers delicious layers of flavor for an energizing pick-me-up.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Pistachio Latte",
+            "description": "Sweet pistachio flavor paired with espresso and milk, served over ice and finished with a salted brown-buttery topping: a creamy, smooth iced latte made to keep you renewed in the new year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Peppermint Mocha",
+            "description": "Our festive all-star Peppermint Mocha brightens the holidays: signature Espresso Roast combines with milk and ice, sweet mocha sauce and peppermint-flavored syrup, topped with whipped cream and dark-chocolate curls.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Peppermint White Chocolate Mocha",
+            "description": "Our signature espresso meets a trio of white chocolate sauce, peppermint-flavored syrup and milk, served over ice and topped with whipped cream and dark-chocolate curls—a sweet, oh-so-delightfully merry treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7.15",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Iced Teas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Brew DR. Island Mango Kombucha",
+            "description": "Tropical treat for any time of year featuring mango, passionfruit and a touch of Peruvian ginger juice. Brewed with sencha green tea.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Brew DR. Superberry Kombucha",
+            "description": "A light and fruity kombucha featuring a delightful blend of sweet and tart berries, hibiscus, and oolong tea.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Black Tea",
+            "description": "Premium black tea sweetened just right and shaken with ice to create an ideal iced tea—a rich and flavorful black tea journey awaits you.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Black Tea Lemonade",
+            "description": "Premium black tea sweetened just right, then shaken with refreshing lemonade and ice for this Arnold Palmer-inspired beverage. A distinguished, satisfying treat.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Chai Tea Latte",
+            "description": "Black tea infused with cinnamon, clove, and other warming spices are combined with milk and ice for the perfect balance of sweet and spicy.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Matcha Tea Latte",
+            "description": "Smooth and creamy matcha sweetened just right and served with milk over ice. Green has never tasted so good.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.75",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Green Tea Lemonade",
+            "description": "Green tea blended with mint, lemongrass, lemon verbena and lemonade, and given a good shake with ice. Lightly flavored and oh-so-refreshing!",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Matcha Lemonade",
+            "description": "Our finely ground Teavana® matcha green tea combined with crisp lemonade, then shaken with ice, creates a refreshingly sweet, delicious drink and a delightfully vibrant, green hue.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Green Tea",
+            "description": "Green tea blended with mint, lemongrass and lemon verbena, and given a good shake with ice. Lightly flavored and oh-so-refreshing!",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Passion Tango® Tea",
+            "description": "A blend of hibiscus, lemongrass and apple hand-shaken with ice: a refreshingly vibrant tea infused with the color of passion",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Iced Passion Tango® Tea Lemonade",
+            "description": "Our blend of hibiscus, lemongrass and apple hand-shaken with ice, lemonade and, of course, passion.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4.15",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cold Drinks",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry Açaí Lemonade Starbucks Refreshers® Beverage",
+            "description": "Sweet strawberry flavors, passion fruit and açaí notes balanced with the delightful zing of lemonade, served over ice with freeze-dried strawberry pieces. The ultimate pick-me-up your afternoon is calling for.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pink Drink Starbucks Refreshers® Beverage",
+            "description": "Our crisp Strawberry Açaí Refreshers® beverage—with accents of passion fruit and combined with creamy coconutmilk—evokes a fruity and refreshing sip of spring, no matter what time of year.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Strawberry Açaí Starbucks Refreshers® Beverage",
+            "description": "Sweet strawberry flavors accented by passion fruit and açaí notes, shaken with ice and real strawberry pieces—a welcoming sweet spot of refreshment.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage",
+            "description": "This tropical-inspired pick-me-up—crafted with a clever combination of vibrant lemonade, sweet mango and refreshing dragonfruit flavors and hand-shaken with ice plus a scoop of real diced dragonfruit.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mango Dragonfruit Starbucks Refreshers® Beverage",
+            "description": "A tropical-inspired pick-me-up—crafted with a refreshing combination of sweet mango and dragonfruit flavors and hand-shaken with ice plus a scoop of real diced dragonfruit.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dragon Drink® Starbucks Refreshers® Beverage",
+            "description": "This tropical-inspired pick-me-up—crafted with sweet mango and dragonfruit flavors and hand-shaken with creamy coconutmilk, ice and a scoop of real diced dragonfruit—creates a refreshing and surprising delight in the fall.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Paradise Drink Starbucks Refreshers® Beverage",
+            "description": "Tropical flavors of pineapple and passionfruit combine with diced pineapple and creamy coconutmilk to create a delicious island escape.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Horizon® Chocolate Organic Milk",
+            "description": "A single-serve milk box with 32mg of DHA Omega-3! DHA is a valuable nutrient that may help support the brain, heart and eyes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.55",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage",
+            "description": "Tropical flavors of pineapple and passionfruit combine with diced pineapple and refreshing lemonade to create a taste of sunshine in a cup.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ethos® Bottled Water",
+            "description": "For every bottle of Ethos® water you buy, Starbucks will donate 5 cents to support humanitarian programs in coffee-growing communities, providing clean, safe water to those in need.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Blended Strawberry Lemonade",
+            "description": "Awaken your taste buds with the zing of refreshing lemonade infused with a hint of delicious strawberry flavor and blended with ice. A light, fresh beverage that puts a little zip in your step.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lemonade",
+            "description": "Awaken your taste buds with the zing of refreshing lemonade—this tangy, fresh sip puts a little zip in your step.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.25",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Cold Milk",
+            "description": "Skim, 2%, soy, almond, or coconutmilk served chilled or over ice. Simply refreshing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pineapple Passionfruit Starbucks Refreshers® Beverage",
+            "description": "Tropical flavors of pineapple and passionfruit mix with diced pineapple to create an island escape—oh so refreshing.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.15",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Koia® Cacao Bean Protein Shake",
+            "description": "The creamy taste of ice-cold chocolate milk without the dairy, to satisfy your daily chocolate craving with a protein boost.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Koia® Vanilla Bean Protein Shake",
+            "description": "A healthy take on a vanilla milkshake, this protein-packed bottle is satisfyingly sweet and creamy without the excess sugar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5.95",
+              "priceCurrency": "USD"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
